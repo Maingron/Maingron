@@ -8,14 +8,10 @@ I live in Germany and like to do webdevelopment stuff. I was born on 2021-08-09 
 - [imageFormatFallback.js](https://github.com/Maingron/imageFormatFallback.js) (Web)
 - [Snake](https://github.com/Maingron/Snake) (Web)
 
-**Other not-irrelevant projects on GitHub:**
-- [MaingronZelda](https://github.com/Maingron/MaingronZelda) (Web) (Archive)
-- [SMBX-2015-World](https://github.com/Maingron/SMBX-2015-World) (<abbr title="Fan-made Super Mario Game">SMBX</abbr> World) (Archive)
-
 **Other GitHub Code contributions:**
 - 🍴 [Minecraft Door Closer](https://github.com/Maingron/Minecraft-DoorCloser) (Further development of seemingly abandoned project) (Minecraft Bukkit plugin)
 - [German EarthBound translation](https://github.com/GlostU/EarthBound-deutsche-uebersetzung) (Verify texts (Commits happened by author))
 
-**Other projects that are not on GitHub:**
+**Other projects that are not to be found on GitHub:**
 - **[maingron.com](//maingron.com)**
 - Maingron Services
