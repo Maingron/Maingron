@@ -1,5 +1,5 @@
 Hi, I am Robin 👀  
-I live in Germany and like to do webdevelopment stuff. I was born on 2021-08-09 in Augsburg.
+I live in Germany and like to do webdevelopment stuff. I was born on 2001-08-09 in Augsburg.
 
 **My most meaningful projects on GitHub:**
 - [Custom Clock](//github.com/Maingron/Custom-Clock) (Start: 07-2021) (Web)
