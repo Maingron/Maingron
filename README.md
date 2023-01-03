@@ -15,3 +15,5 @@ I live in Germany and like to do webdevelopment stuff. I was born on 2001-08-09 
 **Other projects that are not to be found on GitHub:**
 - **[maingron.com](//maingron.com)**
 - Maingron Services
+
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](//github.com/sponsors/maingron)
