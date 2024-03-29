@@ -13,11 +13,4 @@ I was born on 2001-08-09 in Augsburg, Germany.
 **[MainOS](https://maingron.com/mainos)** - "MainOS" Browser Operating System [[GitHub](//github.com/Maingron/MainOS)]  
 **[Teamspeak³](https://maingron.com/ts3)** - My TeamSpeak Server   
 
-## More of my projects on GitHub
-- [Custom Clock](//github.com/Maingron/Custom-Clock) (Start: 07-2021) (Web)
-- [snow.js](https://github.com/Maingron/snow.js) (Web)
-- [imageFormatFallback.js](https://github.com/Maingron/imageFormatFallback.js) (Web)
-- [Snake](https://github.com/Maingron/Snake) (Web)
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maingron&theme=github_dark)
