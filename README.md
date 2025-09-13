@@ -8,11 +8,11 @@ I was born on 2001-08-09 in Augsburg, Germany.
 [![Github-sponsors](https://img.shields.io/badge/sponsor-444444?style=flat&logo=GitHub-Sponsors)](https://github.com/sponsors/maingron)
 
 ## Project overview
-**[Mail Address Tagger](https://github.com/Maingron/Mail-Address-Tagger)** - Display a different tagged Email address to each user ([Composer Package](https://packagist.org/packages/maingron/mail-address-tagger))  
+**[Mail Address Tagger](https://github.com/Maingron/Mail-Address-Tagger)** ![](https://badge.fury.io/gh/Maingron%2FMail-Address-Tagger.svg) - Display a different tagged Email address to each user ([Composer Package](https://packagist.org/packages/maingron/mail-address-tagger))  
 **[Linux Prompts in Windows](https://github.com/Maingron/Linux-Prompts-in-Windows-WSL)** - Linux Prompts in Windows  
 **[Open with Retroarch](https://github.com/Maingron/Open-with-Retroarch)** - Open ROMs with Retroarch by double-clicking  
 **[Teamspeak³](https://maingron.com/ts3)** - My TeamSpeak Server  
-**[Teamspeak Ban List Generator](https://github.com/Maingron/TeamSpeak-Ban-List-Generator)** - Generate a Regex ban list for TeamSpeak, respecting fake chars.  
+**[Teamspeak Ban List Generator](https://github.com/Maingron/TeamSpeak-Ban-List-Generator)** ![](https://badge.fury.io/gh/Maingron%2FTeamSpeak-Ban-List-Generator.svg) - Generate a Regex ban list for TeamSpeak, respecting fake chars.  
 
 ### Concluded projects
 These projects are pretty much completed, but might still receive some updates  
