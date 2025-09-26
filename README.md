@@ -38,4 +38,4 @@ These projects are pretty much completed, but might still receive some updates
 ### I'm also active in these projects
 [oxipng](https://github.com/oxipng/oxipng) - A fast, multi-threaded PNG optimizer
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maingron&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maingron&theme=github_dark)
