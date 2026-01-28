@@ -13,6 +13,7 @@ I was born on 2001-08-09 in Augsburg, Germany.
 **[Open with Retroarch](https://github.com/Maingron/Open-with-Retroarch)** - Open ROMs with Retroarch by double-clicking  
 **[Teamspeak³](https://maingron.com/ts3)** - My TeamSpeak Server  
 **[Teamspeak Ban List Generator](https://github.com/Maingron/TeamSpeak-Ban-List-Generator)** ![](https://badge.fury.io/gh/Maingron%2FTeamSpeak-Ban-List-Generator.svg) - Generate a Regex ban list for TeamSpeak, respecting fake chars.  
+**[Connectivity API](https://connectivity.maingron.com)** Check various connectivity things - Also works with your JavaScript application.  
 
 ### Concluded projects
 These projects are pretty much completed, but might still receive some updates  
