@@ -5,7 +5,7 @@ on:
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, image:debian:stable-slim]
     steps:
       - name: Sync to GitLab
         uses: kujov/gitlab-sync@2.2.0
