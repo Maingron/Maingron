@@ -1,7 +1,12 @@
 <h1 align="center">Maingron</h1>
 <p align="center">
+	<a href="https://maingron.com" title="Website">Website</a>
+	•
+	<a href="https://maingron.github.io" title="More">GitHub.io</a>
+</p>
+<p align="center">
 	<a href="https://maingron.com">
-		<img align="center" src="https://avatars.githubusercontent.com/u/47825439" alt="" width="128" height="128">
+		<img align="center" src="https://avatars.githubusercontent.com/u/47825439" alt="" width="160" height="160">
 	</a>
 </p>
 
@@ -9,12 +14,6 @@
 	<a href="https://github.com/maingron">GitHub</a>
 	•
 	<a href="https://gitlab.com/Maingron">GitLab</a>
-</p>
-
-<p align="center">
-	<a href="https://maingron.com">Maingron.com</a>
-	•
-	<a href="https://maingron.github.io">GitHub.io</a>
 	•
 	<a href="https://maingron.itch.io/">Itch</a>
 </p>
@@ -28,7 +27,6 @@
 	•
 	<a href="https://www.threads.com/@maingron1024">Threads</a>
 </p>
-
 
 ## About me
 
