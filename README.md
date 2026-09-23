@@ -1,4 +1,37 @@
-# About me
+<h1 align="center">Maingron</h1>
+<p align="center">
+	<a href="https://maingron.com">
+		<img align="center" src="https://avatars.githubusercontent.com/u/47825439" alt="" width="128" height="128">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/maingron">GitHub</a>
+	•
+	<a href="https://gitlab.com/Maingron">GitLab</a>
+</p>
+
+<p align="center">
+	<a href="https://maingron.com">Maingron.com</a>
+	•
+	<a href="https://maingron.github.io">GitHub.io</a>
+	•
+	<a href="https://maingron.itch.io/">Itch</a>
+</p>
+
+<p align="center">
+	<a href="https://mastodon.social/@maingron">Mastodon</a>
+	•
+	<a href="https://bsky.app/profile/maingron.com">Bluesky</a>
+	•
+	<a href="https://www.instagram.com/maingron1024/">Instagram</a>
+	•
+	<a href="https://www.threads.com/@maingron1024">Threads</a>
+</p>
+
+
+## About me
+
 Hi, I am Robin.  
 I live in Germany and I primarily do Web-development.  
 
@@ -6,9 +39,6 @@ Regarding programming languages, I am most confident in using HTML, (S)CSS, Java
 Accessibility is key.  
 
 I do have other skills, including Server management, but I'm not going into that here. I use Arch btw.
-## Check out
-- **[Maingron.com](https://maingron.com)** is my website.  
-- [My GitHub.io Page](https://maingron.github.io) - you can find some project related stuff there.
 
 # Project overview
 ## GitHub
@@ -25,7 +55,7 @@ I do have other skills, including Server management, but I'm not going into that
 ### External
 - **[Maingron.com](https://maingron.com)** - My Website  
 - **[Teamspeak³ Server](https://maingron.com/ts3)** - My TeamSpeak Server  
-- **[Connectivity API](https://connectivity.maingron.com)** Check various connectivity things - Also works with your JavaScript application.  
+- **[Connectivity API](https://connectivity.maingron.com)** - Check various connectivity things - Also works with your JavaScript application.  
 - **[Clock Dashboard (v1)](https://clock.maingron.com)** - Clock Dashboard (v1)  
 
 ### Experiments
